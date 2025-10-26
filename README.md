@@ -9,7 +9,7 @@ This project aims to predict the presence of heart disease using patient medical
 ## ⚙️ Workflow
 1. Load and clean dataset  
 2. Perform EDA (visualizations, correlations)  
-3. Train multiple models (Logistic Regression, Random Forest, KNN, SVM)  
+3. Train multiple models (Logistic Regression, Random Forest, KNN)  
 4. Compare performance metrics  
 5. Select best model and save it  
 
